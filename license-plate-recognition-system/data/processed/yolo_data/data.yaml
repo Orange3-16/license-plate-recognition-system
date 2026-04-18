@@ -1,0 +1,6 @@
+path: C:\Users\pengzicheng\Desktop\project\graduation
+train: data/processed/train.txt
+val: data/processed/val.txt
+
+names:
+  0: license_plate
